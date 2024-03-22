@@ -11,7 +11,6 @@ namespace ConsoleApp1
         public string Username { get; }
         public string Email { get; }
         public string PhoneNumber { get; }
-        // Additional user properties can be added as needed
 
         public User(string username, string email, string phoneNumber)
         {
